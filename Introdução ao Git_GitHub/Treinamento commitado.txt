@@ -1,0 +1,6 @@
+# O objetivo é aprender a utilizar o Git eo GitHub para controle de versões de projeto e 
+  trocar informações com outros colegas que queiram contribuir com desenvolvimento de projetos.
+
+# Desde já, meus agradecimentos a quem está vendo esta postagem.
+
+# Sinta-se à vontade para comentar e sugerir modificações.
